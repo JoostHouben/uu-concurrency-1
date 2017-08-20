@@ -1,3 +1,5 @@
 bin/*
 obj/*
 *.suo
+TomJudge1.exe
+report.csv
